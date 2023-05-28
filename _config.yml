@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title:  hello vbnmjj
+SEOTitle: vbnmjj | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: haojiefeng000@gmail.com
+description: "日穿内网."
+keyword: " vbnmjj的博客, iOS, Apple, iPhone"
+url: "http://vbnmjj.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/vbnmjj/vbnmjj.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     no
+zhihu_username:     no
+github_username:    vbnmjj
+facebook_username:  no
+jianshu_username:   no
+#twitter_username:   no
 
 
 
@@ -54,19 +54,17 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
-# 评论系统
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 4a4ab8125c2cc0570d5b                  #生成的clientID
+  clientSecret: 495f6a1b9ad278c83e07f3370d3cbdafa1e42cab    #生成的clientSecret
+  repo: vbnmjj.github.io    #仓库名称
+  owner: vbnmjj    #github用户名
+  admin: vbnmjj
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
